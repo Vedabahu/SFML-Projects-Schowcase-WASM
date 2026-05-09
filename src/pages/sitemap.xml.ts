@@ -22,7 +22,7 @@ export const GET: APIRoute = async ({ site }) => {
       // Extract slug from the file path (e.g., "adventjs.md" -> "adventjs")
       const slug = project.id.replace(".md", "");
       return {
-        url: url: new URL(`projects/${slug}/`, site).toString(),
+        url: new URL(`projects/${slug}/`, site).toString(),
         lastmod: project.data.date || new Date(),
         changefreq: "monthly",
         priority: 0.8,
