@@ -4,7 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: "https://vedabahu.github.io/SFML-Projects-Schowcase-WASM",
+  site: "https://vedabahu.github.io",
+  base: "/SFML-Projects-Schowcase-WASM",
   trailingSlash: "always",
   integrations: [mdx(), react()],
   vite: {

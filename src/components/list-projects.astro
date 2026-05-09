@@ -73,7 +73,7 @@ const eagerLoadCount = getEagerLoadCount(gridCols);
   {
     sortedProjects.map((project: Project, index: number) => (
       <a
-        href={`/projects/${project.id}`}
+        href={`${import.meta.env.BASE_URL}projects/${project.id}/`}
         class="relative rounded-lg lg:rounded-2xl overflow-hidden hover:opacity-95 transition-opacity aspect-[16/10]"
       >
         <Image
