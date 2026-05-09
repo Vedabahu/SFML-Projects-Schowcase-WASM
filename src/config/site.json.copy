@@ -1,0 +1,81 @@
+{
+  "site": {
+    "url": "https://vedabahu.github.io/SFML-Projects-Schowcase-WASM",
+    "name": "SFML Showcase"
+  },
+  "company": {
+    "name": "Vedabahu",
+    "logo": "https://github.com/vedabahu.png",
+    "description": "Software Engineer | Boeing",
+    "longDescription": "This is a website for displaying my different SFML projects ported to WASM.",
+    "detailedDescription": "",
+    "footerText": "",
+    "copyright": "© 2026 Vedabahu. All rights reserved.",
+    "status": {
+      "available": false,
+      "text": "Super C++ Projects"
+    },
+    "specialties": ["C++", "Systems Software Engineering"],
+    "technologies": []
+  },
+  "contact": {
+    "bookCall": {
+      "text": "Look through them",
+      "url": "/"
+    },
+    "chat": {
+      "text": "Chat",
+      "url": "/"
+    },
+    "email": "hello@eduardocalvolopez.com",
+    "linkedin": "https://linkedin.com/in/educlopez",
+    "github": "https://github.com/educlopez",
+    "dribbble": "https://dribbble.com/educlopez",
+    "twitter": "https://twitter.com/educlopez",
+    "instagram": "https://instagram.com/educlopez",
+    "youtube": "",
+    "behance": "",
+    "figma": "https://figma.com/@educlopez",
+    "medium": ""
+  },
+  "experience": [
+    {
+      "year": "2022 — Present",
+      "company": "Vercel",
+      "type": "Senior UI Designer & Frontend Developer",
+      "logo": "https://cdn.simpleicons.org/vercel",
+      "description": "Leading design and development initiatives for digital products, creating scalable design systems and implementing modern frontend architectures."
+    },
+    {
+      "year": "2020 — 2022",
+      "company": "Cloudflare",
+      "type": "UI/UX Designer & Web Developer",
+      "logo": "https://cdn.simpleicons.org/cloudflare",
+      "description": "Designed and developed user-centered digital solutions, focusing on brand identity and user experience optimization."
+    },
+    {
+      "year": "2018 — 2020",
+      "company": "Stripe",
+      "type": "Graphic Designer & Web Developer",
+      "logo": "https://cdn.simpleicons.org/stripe",
+      "description": "Created visual identities and web solutions for diverse clients, building expertise in both design and development workflows."
+    },
+    {
+      "year": "2016 — 2018",
+      "company": "GitHub",
+      "type": "Graphic Designer & Web Developer",
+      "logo": "https://cdn.simpleicons.org/github",
+      "description": "Developed corporate communications and digital assets, gaining experience in enterprise-level design requirements."
+    }
+  ],
+  "projects": {
+    "gridColumns": 1
+  },
+  "testimonials": [
+    {
+      "text": "Edu's attention to detail and technical expertise transformed our vision into a stunning, functional reality.",
+      "author": "Client Name",
+      "company": "Company Name"
+    }
+  ]
+}
