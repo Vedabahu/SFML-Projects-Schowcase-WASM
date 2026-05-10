@@ -1,13 +1,13 @@
 {
   "site": {
     "url": "https://vedabahu.github.io/SFML-Projects-Schowcase-WASM",
-    "name": "SFML Showcase"
+    "name": "SFML and Raylib Showcase"
   },
   "company": {
     "name": "Vedabahu",
     "logo": "https://github.com/vedabahu.png",
     "description": "Software Engineer | Boeing",
-    "longDescription": "This is a website for displaying my different SFML projects ported to WASM.",
+    "longDescription": "This is a website for displaying my different SFML and Raylib projects ported to WASM.",
     "detailedDescription": "",
     "footerText": "",
     "copyright": "© 2026 Vedabahu. All rights reserved.",
